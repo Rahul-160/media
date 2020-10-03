@@ -1,6 +1,6 @@
 # media.datenanfragen.de
 
-> This repository contains the source code and scripts for media.datenanfragen.de, our site for hosting videos.
+> This repository contains the source code and scripts for media.datenanfragen.de, our site for hosting videos (Media) .
 
 ## Adding a new video
 
@@ -23,4 +23,4 @@
        ]
    }
    ```
-3. Run `yarn update-site` to transcode the video (this will take a while depending on the video length), generate its embed page and deploy the site.
+3. Run `yarn update-site` to transcode the video (this will take some time depending on the video length), generate its embed page and deploy the site.
